@@ -25,6 +25,8 @@ Open the application in the browser at:
 ```
 http://localhost:5174
 ```
+# vercel link (deploy on)
+https://assignment-for-fronted-b3gjhkura-rishika-mandlays-projects.vercel.app
 
 # Key Technologies Used
 
