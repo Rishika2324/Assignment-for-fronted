@@ -1,58 +1,78 @@
-CNAPP Dashboard
-A modern, responsive dashboard application built with React, TypeScript, and Vite. Features widget management, search functionality, and data visualization with pie and bar charts.
-What this is:-
-This is a responsive dashboard UI built with React + TypeScript (Vite). It demonstrates component design, simple state management, and charting for small dashboard widgets.
 
-Quick start:-
-1.Install dependencies:
+# CNAPP Dashboard
+
+This is a modern and responsive dashboard application built using React, TypeScript, and Vite. It includes widget management, search functionality, and data visualization using pie and bar charts.
+
+## Overview
+
+The project demonstrates a clean dashboard UI with component-based design, simple state management, and charting capabilities. It focuses on creating small and useful dashboard widgets that are easy to manage and customize.
+
+## Quick Start
+
+1. Install the dependencies:
+
+```bash
 npm install
-2.Run the development server:
+```
+
+2. Start the development server:
+
+```bash
 npm run dev
-Open the app at http://localhost:5174 
+```
 
-Key Technologies:-
-React 19 - UI framework
-TypeScript - Type safety
-Vite- Fast build tool and dev server
-React Router DOM - Client-side routing
-Zustand- Lightweight state management
-Recharts- Data visualization library
-Inter Font- Professional typography
+Open the application in the browser at:
 
-Features Overview:-
-Navigation:-
- Clean top navbar with Dashboard branding
- Centered search bar for global widget filtering
- Navigation links to Home and Dashboard v2
- Active link highlighting for current page
+```
+http://localhost:5174
+```
 
-Dashboard:-
-Organized widget display in categories
-Time range selector (Last 2/7/30 days)
-Refresh button to reload data
-Add Widget button for creating new widgets
+## Key Technologies Used
 
-Widget Management Modal:-
-Category tabs for organization
-Toggle existing widgets on/off
-Form to add new widgets with title and description
-Cancel and Confirm buttons
+* React 19
+* TypeScript
+* Vite (build tool and development server)
+* React Router DOM
+* Zustand (state management)
+* Recharts (data visualization)
+* Inter Font
 
-Widgets:-
-Pie/donut chart visualization
-Bar chart support
-Legend display with values
-Remove individual widgets
+## Features
 
-Design Principles:-
-Clean & Professional: Minimal design without unnecessary decorations
-Consistent Typography: Inter font with proper weight hierarchy
-Intentional Interactions: Smooth transitions focused on functionality
-Accessible: Proper semantic HTML and ARIA labels
+### Navigation
 
-Browser Support:-
-Chrome/Edge 
-Firefox 
-Safari 
+* Clean top navigation bar with Dashboard branding
+* Centered search bar for filtering widgets
+* Navigation links to Home and Dashboard v2
+* Active link highlighting
 
+### Dashboard
+
+* Widgets organized under different categories
+* Time range selection (Last 2, 7, and 30 days)
+* Refresh button to reload or update data
+* Add Widget button for creating new widgets
+
+### Widget Management Modal
+
+* Tabs for switching between categories
+* Option to toggle existing widgets on or off
+* Form to add new widgets with title and description
+* Cancel and Confirm buttons
+
+### Widgets
+
+* Pie and donut chart support
+* Bar chart support
+* Clear legend with value labels
+* Option to remove individual widgets
+
+## Design Principles
+
+* Simple and professional layout
+* Consistent use of the Inter font
+* Smooth and intentional user interactions
+* Accessible structure with semantic HTML and ARIA labels
+
+If you want, I can also make a very short version or adjust the wording further for your exam.
 
